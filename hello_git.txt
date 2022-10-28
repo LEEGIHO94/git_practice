@@ -1,1 +1,3 @@
-Hello Codstates
+Hello world
+I love git
+but I don't like linucs
